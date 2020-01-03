@@ -1,2 +1,2 @@
-mpn install 
+npn install 
 npm start
